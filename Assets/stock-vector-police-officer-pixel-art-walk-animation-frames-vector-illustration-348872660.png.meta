@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 337e2dbedbde2a447a637578a4fa2c47
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_0
+    21300002: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_1
+    21300004: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_2
+    21300006: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_3
+    21300008: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_4
+    21300010: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_5
+    21300012: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_6
+    21300014: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_7
+    21300016: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_8
+    21300018: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_9
+    21300020: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_10
+    21300022: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_11
+    21300024: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_12
+    21300026: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_13
+    21300028: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_14
+    21300030: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7ccf6a636f1d4d9c7ec4782491449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 452
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce932f554054946b7867bbbbf7539d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 452
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c505edb3e734b4faf8529e0ae2619f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 452
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ebc79241fd2a34ea48bb22d16a6fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc890d46abf31004090c97d9ef905dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 310
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42e912f0ca4754babc1ed486d1826d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 310
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ab71d625dcc544aecac6ef4b57b84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 310
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fa213a9b85274281fd1039887a92d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148dbd934200edf47a4146b21f976720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 168
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529c1c3198948546a8147d45f7f1df9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 168
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd9c5ee61a46a4989b2a0726c4c751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 168
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7480391d8d544185cfd572460cafc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b057ce44e877764e90b8c85e180a156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 26
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390e3ddb020827a4aadc074403abe315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11753a1d42db4994192c1d8ebee4d5fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-police-officer-pixel-art-walk-animation-frames-vector-illustration-348872660_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 26
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba4ee04bb3f21a4e9dd212775cf9659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2fedcd1e72ee2b749870cffb46cd484d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
